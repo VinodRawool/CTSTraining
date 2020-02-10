@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        function check1()
+        {
+            var name = document.myform2.uname.value;
+            var pass = document.myform2.password.value;
+
+            if (name == "Vinod" && pass == "mylife123") {
+                return true;
+            }
+            else {
+                alert("Name: Vinod\nPassword: mylife123");
+                return false;
+            }
+
+        }
+
+    </script>
+</head>
+<body>
+
+    <div align="center" style="margin:150px;padding-bottom:100px">
+
+        <h2 style="color:#009999">LOGIN</h2>
+        <br />
+
+        <form action="Home.html" name="myform2" onsubmit="return check1()" >
+            <fieldset style="padding:50px">
+
+                <table>
+                    <tr>
+                        <td>
+                            Name:
+                        </td>
+                        <td>
+                            <input type="text" name="uname" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Password:
+                        </td>
+                        <td>
+                            <input type="text" name="password" />
+                        </td>
+                    </tr>
+                  </table>
+                <br />
+                <input type="submit" value="Login" />
+            </fieldset>
+
+        </form>
+
+
+    </div>
+
+</body>
+</html>
