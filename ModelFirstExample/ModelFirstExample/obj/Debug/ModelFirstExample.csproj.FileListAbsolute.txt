@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\obj\Debug\ModelFirstExample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\obj\Debug\ModelFirstExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\ModelFirstExample.exe.config
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\ModelFirstExample.exe
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\ModelFirstExample.pdb
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\obj\Debug\ModelFirstExample.exe
+C:\Users\Admin\source\repos\ModelFirstExample\ModelFirstExample\obj\Debug\ModelFirstExample.pdb

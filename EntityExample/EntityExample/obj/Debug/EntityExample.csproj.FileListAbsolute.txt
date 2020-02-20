@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityExample.exe.config
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityExample.exe
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityExample.pdb
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EntityExample\EntityExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EntityExample\EntityExample\obj\Debug\EntityExample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EntityExample\EntityExample\obj\Debug\EntityExample.exe
+C:\Users\Admin\source\repos\EntityExample\EntityExample\obj\Debug\EntityExample.pdb
+C:\Users\Admin\source\repos\EntityExample\EntityExample\obj\Debug\EntityExample.Migrations.initialMigrations.resources
+C:\Users\Admin\source\repos\EntityExample\EntityExample\obj\Debug\EntityExample.csproj.GenerateResource.Cache

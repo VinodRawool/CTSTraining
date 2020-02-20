@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\bin\Debug\IOCSharp.exe.config
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\bin\Debug\IOCSharp.exe
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\bin\Debug\IOCSharp.pdb
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\obj\Debug\IOCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\obj\Debug\IOCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\obj\Debug\IOCSharp.exe
+C:\Users\Admin\source\repos\IOCSharp\IOCSharp\obj\Debug\IOCSharp.pdb

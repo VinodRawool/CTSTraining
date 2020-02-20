@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ADOExample\ADOExample\obj\Debug\ADOExample.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\ADOExample\ADOExample\obj\Debug\ADOExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ADOExample\ADOExample\bin\Debug\ADOExample.exe.config
+C:\Users\Admin\source\repos\ADOExample\ADOExample\bin\Debug\ADOExample.exe
+C:\Users\Admin\source\repos\ADOExample\ADOExample\bin\Debug\ADOExample.pdb
+C:\Users\Admin\source\repos\ADOExample\ADOExample\obj\Debug\ADOExample.exe
+C:\Users\Admin\source\repos\ADOExample\ADOExample\obj\Debug\ADOExample.pdb

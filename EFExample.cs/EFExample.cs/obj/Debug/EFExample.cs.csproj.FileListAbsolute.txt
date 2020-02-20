@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EFExample.cs.exe.config
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EFExample.cs.exe
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EFExample.cs.pdb
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\obj\Debug\EFExample.cs.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\obj\Debug\EFExample.cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\obj\Debug\EFExample.cs.exe
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\obj\Debug\EFExample.cs.pdb
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\obj\Debug\EFExample.cs.Migrations.customer2.resources
+C:\Users\Admin\source\repos\EFExample.cs\EFExample.cs\obj\Debug\EFExample.cs.csproj.GenerateResource.Cache

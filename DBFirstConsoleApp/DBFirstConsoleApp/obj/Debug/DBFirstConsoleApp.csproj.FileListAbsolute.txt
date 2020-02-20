@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\DBFirstConsoleApp.exe.config
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\DBFirstConsoleApp.exe
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\DBFirstConsoleApp.pdb
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\obj\Debug\DBFirstConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\obj\Debug\DBFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\obj\Debug\DBFirstConsoleApp.exe
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\obj\Debug\DBFirstConsoleApp.pdb
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DBFirstConsoleApp\DBFirstConsoleApp\bin\Debug\EntityFramework.SqlServer.xml

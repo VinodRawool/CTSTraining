@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EFramework2.exe.config
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EFramework2.exe
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EFramework2.pdb
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EFramework2\EFramework2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EFramework2\EFramework2\obj\Debug\EFramework2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EFramework2\EFramework2\obj\Debug\EFramework2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EFramework2\EFramework2\obj\Debug\EFramework2.exe
+C:\Users\Admin\source\repos\EFramework2\EFramework2\obj\Debug\EFramework2.pdb
+C:\Users\Admin\source\repos\EFramework2\EFramework2\obj\Debug\EFramework2.Migrations.customer.resources
+C:\Users\Admin\source\repos\EFramework2\EFramework2\obj\Debug\EFramework2.csproj.GenerateResource.Cache

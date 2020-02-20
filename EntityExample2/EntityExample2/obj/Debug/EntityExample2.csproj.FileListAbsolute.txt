@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityExample2.exe.config
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityExample2.exe
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityExample2.pdb
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\obj\Debug\EntityExample2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\obj\Debug\EntityExample2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\obj\Debug\EntityExample2.exe
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\obj\Debug\EntityExample2.pdb
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\obj\Debug\EntityExample2.Migrations.initialmigration.resources
+C:\Users\Admin\source\repos\EntityExample2\EntityExample2\obj\Debug\EntityExample2.csproj.GenerateResource.Cache

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Students" EntityType="Model1.Student" />
+    <EntitySet Name="Exams" EntityType="Model1.Exam" />
+    <EntitySet Name="Results" EntityType="Model1.Result" />
+    <AssociationSet Name="StudentResult" Association="Model1.StudentResult">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="Result" EntitySet="Results" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExamId" Association="Model1.FK_ExamId">
+      <End Role="Exam" EntitySet="Exams" />
+      <End Role="Result" EntitySet="Results" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="SId" />
+    </Key>
+    <Property Name="SId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SName" Type="String" Nullable="false" />
+    <Property Name="SSchool" Type="String" Nullable="false" />
+    <NavigationProperty Name="Results" Relationship="Model1.StudentResult" FromRole="Student" ToRole="Result" />
+  </EntityType>
+  <EntityType Name="Exam">
+    <Key>
+      <PropertyRef Name="EId" />
+    </Key>
+    <Property Name="EId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="EName" Type="String" Nullable="false" />
+    <Property Name="EDate" Type="DateTime" Nullable="false" />
+    <Property Name="MaxMarks" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Results" Relationship="Model1.FK_ExamId" FromRole="Exam" ToRole="Result" />
+  </EntityType>
+  <EntityType Name="Result">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Student" Relationship="Model1.StudentResult" FromRole="Result" ToRole="Student" />
+    <Property Name="SId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Exam" Relationship="Model1.FK_ExamId" FromRole="Result" ToRole="Exam" />
+    <Property Name="EId" Type="Int32" Nullable="false" />
+    <Property Name="Marks" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="StudentResult">
+    <End Type="Model1.Student" Role="Student" Multiplicity="1" />
+    <End Type="Model1.Result" Role="Result" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="SId" />
+      </Principal>
+      <Dependent Role="Result">
+        <PropertyRef Name="SId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExamId">
+    <End Type="Model1.Exam" Role="Exam" Multiplicity="1" />
+    <End Type="Model1.Result" Role="Result" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Exam">
+        <PropertyRef Name="EId" />
+      </Principal>
+      <Dependent Role="Result">
+        <PropertyRef Name="EId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

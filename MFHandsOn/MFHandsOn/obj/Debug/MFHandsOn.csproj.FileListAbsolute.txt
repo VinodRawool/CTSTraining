@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\MFHandsOn.exe.config
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\MFHandsOn.exe
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\MFHandsOn.pdb
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\obj\Debug\MFHandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\obj\Debug\MFHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\obj\Debug\MFHandsOn.exe
+C:\Users\Admin\source\repos\MFHandsOn\MFHandsOn\obj\Debug\MFHandsOn.pdb
