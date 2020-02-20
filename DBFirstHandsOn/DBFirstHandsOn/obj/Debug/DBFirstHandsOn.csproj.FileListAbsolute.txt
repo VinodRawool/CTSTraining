@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\DBFirstHandsOn.exe.config
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\DBFirstHandsOn.exe
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\DBFirstHandsOn.pdb
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\obj\Debug\DBFirstHandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\obj\Debug\DBFirstHandsOn.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\obj\Debug\DBFirstHandsOn.exe
+C:\Users\Admin\source\repos\DBFirstHandsOn\DBFirstHandsOn\obj\Debug\DBFirstHandsOn.pdb
